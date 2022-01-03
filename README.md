@@ -1,3 +1,11 @@
-### <p align="center">_Screenshot_</p>
+<div align="center">
 
-[![Click and drag project screenshot](https://i.postimg.cc/4nk3Tq2C/click-and-drag.png "Click me!")](https://isbendiyarovanezrin.github.io/ClickAndDrag)
+### Click and Drag
+
+###### You can view the project [here](https://isbendiyarovanezrin.github.io/ClickAndDrag "Click me!🙃").
+
+#### _Screenshot_
+
+![Click and drag project screenshot](https://i.postimg.cc/4nk3Tq2C/click-and-drag.png)
+
+</div>
