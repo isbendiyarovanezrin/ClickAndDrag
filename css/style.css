@@ -84,7 +84,7 @@ body {
 }
 
 .item:first-child {
-  background: 30% / cover url(../img/boy-1.jfif) var(--orange-gold);
+  background: no-repeat 30% / cover url(../img/boy-1.jfif) var(--orange-gold);
 }
 
 .item:nth-child(2) {
