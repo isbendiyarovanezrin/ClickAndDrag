@@ -176,7 +176,7 @@ body {
 }
 
 .item:nth-child(24) {
-  background: 70% / cover url(../img/boy-24.jfif) var(--flaming-pink);
+  background: 54% / cover url(../img/boy-24.jpeg) var(--flaming-pink);
 }
 
 .item:last-child {
