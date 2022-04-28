@@ -57,6 +57,12 @@ body {
   perspective: 65rem;
   transform: scale(0.98);
   -webkit-tap-highlight-color: transparent;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.items::-webkit-scrollbar {
+  display: none;
 }
 
 .items.active {
