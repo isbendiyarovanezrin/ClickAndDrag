@@ -35,7 +35,6 @@ html {
 }
 
 body {
-  overflow-x: hidden;
   display: flex;
   min-height: 100vh;
   align-items: center;
@@ -50,7 +49,8 @@ body {
   padding-top: 7rem;
   position: relative;
   user-select: none;
-  overflow: hidden;
+  overflow-x: scroll;
+  overflow-y: hidden;
   white-space: nowrap;
   cursor: grab;
   transition: all 0.2s ease;
